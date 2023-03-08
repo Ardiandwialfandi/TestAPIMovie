@@ -1,18 +1,18 @@
 package com.test;
 
-import io.restassured.RestAssured;
+
 import io.restassured.http.ContentType;
 import org.json.simple.JSONObject;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
 import static io.restassured.RestAssured.*;
+@SuppressWarnings("unchecked")
 
 public class TestPostRating {
     String contenType;
     String author;
 
-    RestAssured req;
     @BeforeClass
     public void setUp(){
         contenType = "application/json";
