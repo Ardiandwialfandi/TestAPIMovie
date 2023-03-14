@@ -33,6 +33,10 @@ The number of users is 100 and the distance between users is 0.5 seconds and the
 - [@Ardiandwialfandi](https://www.github.com/Ardiandwialfandi)
 
 ## Screenshots
+
+- #### Thread Group
+![App Screenshot](https://snipboard.io/BKzxkp.jpg)
+
 - #### HTTP Request for Get Popular Movie
 ![App Screenshot](https://snipboard.io/B20wq1.jpg)
 
